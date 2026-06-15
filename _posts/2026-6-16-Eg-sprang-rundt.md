@@ -2,6 +2,7 @@
 layout: post
 title: Eg sprang rundt i Elwynnskogen og drap
 ---
+
 **Eit essay om vald. Hovudsakeleg i World of Warcraft, men også i andre dataspel.**
 
 
