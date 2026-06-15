@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Om
+title: Om journalen
 permalink: /Om_journalen/
 ---
 
