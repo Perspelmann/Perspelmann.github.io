@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om
-permalink: /Om journalen/
+permalink: /Om_journalen/
 ---
 
 ### Kva er det her?
