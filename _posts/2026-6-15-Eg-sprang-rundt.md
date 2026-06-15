@@ -3,7 +3,7 @@ layout: post
 title: Eg sprang rundt i Elwynnskogen og drap
 ---
 
-**Eit essay om vald. Hovudsakeleg i World of Warcraft, men også i andre dataspel.**
+*Eit essay om vald. Hovudsakeleg i World of Warcraft, men også i andre dataspel.*
 
 
 Eg sprang rundt i Elwynnskogen og drap. Eg blei beden om å drepa, og eg drap.
